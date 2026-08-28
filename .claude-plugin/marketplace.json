@@ -1,0 +1,14 @@
+{
+  "name": "neuromentor",
+  "owner": {
+    "name": "NeuroMentor",
+    "url": "https://neuromentor.app"
+  },
+  "plugins": [
+    {
+      "name": "vibe-coder",
+      "source": "./vibe-coder",
+      "description": "Помощник-технарь для того, кто собирает своё приложение сам. Архитектура, стек, сборка, разбор ошибок. Маркетинг и продажи остаются в NeuroMentor."
+    }
+  ]
+}
